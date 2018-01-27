@@ -1,0 +1,15 @@
+*.exe
+
+*.ilk
+
+*.tlog/
+
+*.obj
+
+*.log
+
+*.idb
+
+*.pdb
+
+.vs/
